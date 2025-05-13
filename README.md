@@ -29,7 +29,6 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Testing](#testing)
 
 ---
 
@@ -44,7 +43,6 @@ This project simplifies polynomial arithmetic while ensuring accuracy and reliab
 - 🎛️ **Polynomial Manipulation:** Effortlessly perform addition, subtraction, multiplication, and more on polynomial expressions.
 - ✅ **User Input Validation:** Automatically checks and validates polynomial formats, enhancing data integrity.
 - 🎨 **Intuitive UI:** Enjoy a user-friendly interface that streamlines interaction and improves user experience.
-- 🧪 **Testing Framework:** Built-in unit tests ensure the correctness of polynomial operations, boosting confidence in your code.
 - 🔗 **Seamless Integration:** Well-structured components promote maintainability and scalability for future enhancements.
 
 ---
@@ -91,17 +89,6 @@ Run the project with:
 ```sh
 mvn exec:java
 ```
-
-### Testing
-
-Polynomial-calculator uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [maven](https://maven.apache.org/):**
-
-```sh
-mvn test
-```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
